@@ -1,0 +1,101 @@
+﻿titulo,autores,data_publicacao,link
+Rigorously Certified Neural-Network Computation of Nonlinear Water Waves at Near-Machine Precision,Michal Shavit; Yongji Wang; Tristan Buckmaster,2026-11-05,http://arxiv.org/abs/2611.07395v1
+"Projection-based segregated, iterative, and multi-stage physics-informed neural network for incompressible Navier-stokes equations",Zhenyu Zhang; Zhixiang Ling; Yinghao Huo; Huayong Liu; Yunde Su,2026-11-05,http://arxiv.org/abs/2611.07387v1
+Fractional physics-informed neural networks to model social media virality,Alex Koong; George Em Karniadakis,2026-11-04,http://arxiv.org/abs/2611.07215v1
+A physics-informed neural network method for pressure-driven turbine-blade optimization,Yuan Huang; Francesca di Mare,2026-11-03,http://arxiv.org/abs/2611.05691v1
+Adaptive Domain Decomposition for Finite Basis Physics-Informed Neural Networks,Sarah Helfert; Wanxin Chen; Amanda A. Howard; Panos Stinis; Alexander Heinlein,2026-11-03,http://arxiv.org/abs/2611.05659v1
+De Rham cohomological architectures for PINNs and PDEs with topological holes,Andrew Gracyk,2026-11-03,http://arxiv.org/abs/2611.05276v1
+Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks,Luke Oluwaseye Joel,2026-11-03,http://arxiv.org/abs/2611.05130v1
+A Two-Dimensional Physics-Informed Neural Network Model of a Hall Effect Thruster Plasma: Self-Consistent Electrostatics and Physical-Consistency Diagnostics,Josh Adjedj; Subrata Roy,2026-11-03,http://arxiv.org/abs/2611.04194v1
+Ermakov--Based embeddings as a parameter-free layer for physics-informed neural networks,Roberto Bernal-Jaquez; Roberto Romero Huerta; Alexander Schaum,2026-11-02,http://arxiv.org/abs/2611.03964v1
+High-fidelity quantum gate learning via physics-informed neural networks,Luis Fabra; Cristian E. Susa; Alcides Montoya; Ariel Norambuena,2026-11-02,http://arxiv.org/abs/2611.03851v1
+Variational Functional Neural Networks (vfNN),Chinmay Katke; C. Nadir Kaplan,2026-11-02,http://arxiv.org/abs/2611.03542v1
+Identifying the Shear Piezoelectric Coefficient using Physics-Informed Neural Networks under Exact Boundary and Initial Constraints,Suhas Suresh Bharadwaj,2026-11-02,http://arxiv.org/abs/2611.03485v1
+A Physics Informed Neural Network Approach to Decipher Environmental Confinement of Molecular Clouds in the Third Galactic Quadrant,Ashok Mondal,2026-11-02,http://arxiv.org/abs/2611.03450v1
+Derivation of Novel Isotropic Metamaterials at the Hashin Shtrikman Stiffness Limit Enabled by Physics Informed Neural Networks,Manish Kumar Singh; Dominic Kang Jueh Lim; Anson Wen Han Cheong; Adams Wai Kin Kong; Chang Quan Lai,2026-11-02,http://arxiv.org/abs/2611.02622v1
+Black Hole Love Numbers with Physics-Informed Neural Networks,Maria J. Rodriguez; Luis Fernando Temoche; Pavlos Protopapas,2026-11-01,http://arxiv.org/abs/2611.02084v1
+A sensor-driven physics-informed neural network for real-time occupant-centric space heating control,Yunfei Bai; Chenghao Li; Sunku Prasad Jenne; Hao Wang; Sizhe Zhang; Jihong Wang,2026-11-01,http://arxiv.org/abs/2611.01723v1
+Mean Field Game Problem with Kantorovich Potential Coupling: An Attrition model,Avetik Arakelyan; Davit Alaverdyan; Naira Hovakimyan; Isaac Kaminer; Tigran Bakaryan,2026-11-01,http://arxiv.org/abs/2611.01616v1
+Boosted Physics-Informed Neural Networks for Solving Homogeneous and Non-Homogeneous Lane-Emden Type Equations,Luke Oluwaseye Joel,2026-10-31,http://arxiv.org/abs/2611.00701v1
+Hard Constraint Projection in a Physics Informed Neural Network (Burgers),Miranda J S Horne; Peter K Jimack; Amirul Khan; He Wang,2026-10-30,http://arxiv.org/abs/2610.42106v1
+Equation informed time reparametrization for physics informed neural networks,Orestis Belokas; Christoforos Rekatsinas,2026-10-30,http://arxiv.org/abs/2610.41246v1
+Inherent Failure Modes of Physics-Informed Neural Networks for Buoyancy-Driven Flow: Role of Non-Dimensionalization in Network Training,Krishan Chand; Ahmad Peyvan; Haoxiang Luo,2026-10-28,http://arxiv.org/abs/2610.38889v1
+Regional accuracy of physics-informed neural networks (PINNs) for recirculation in a deep lid-driven cavity,Ehsan Roohi; Christopher J. McDevitt,2026-10-28,http://arxiv.org/abs/2610.38814v2
+A Physics-Informed Neural Network for Geodesic Computation and Visualization of Geodesic Spheres on Riemannian Manifolds,Sujit Bhattacharyya,2026-10-28,http://arxiv.org/abs/2610.38260v1
+Neural Stream Function Method for Electrical Impedance Tomography with Lipschitz Conductivities,Xiaosheng Li,2026-10-27,http://arxiv.org/abs/2610.38064v1
+QD-PINN:A Physics-Informed Neural Network Approach to Bayesian Quickest Detection in High-Dimensional Diffusions,Hang Ye; Yi Liu; Haipeng Xing,2026-10-27,http://arxiv.org/abs/2610.37473v1
+A Deep Learning-Driven Operator Splitting Scheme for Free Boundary Problems: An Application to American Option Pricing in Incomplete Markets,Dong Yan; Haocheng Zhu; Yao Li,2026-10-27,http://arxiv.org/abs/2610.36921v1
+Lie Symmetry-Guided Adaptive Sampling for Physics-Informed Neural Networks,Runze Zhao,2026-10-25,http://arxiv.org/abs/2610.34345v1
+The Symmetry of Differential Neural Tangent Kernel under the Orthogonal Group,Bangti Jin; Longjun Wu,2026-10-25,http://arxiv.org/abs/2610.34023v1
+Hybrid-time PINNs: Discontinuity-Aware Physics-Informed Neural Networks for Learning Hybrid Dynamical Systems,Shivanshu Tripathi; Maziar Raissi,2026-10-24,http://arxiv.org/abs/2610.33562v1
+Physics Informed Neural Network for Multi-dimensional Turbulent Self-gravitating Flows,Tirthankar De; Sayantan Auddy; Ramit Dey; Shantanu Basu,2026-10-23,http://arxiv.org/abs/2610.32840v1
+Sensitivity-Guided Parameter Estimation of Bubbly Liquid via a Nonlinear Wave Equation and Physics-InformedNeuralNetworks,Takeru Hasegawa; Naoto Mitsume; Shota Deguchi; Mitsuteru Asai; Tetsuya Kanagawa,2026-10-23,http://arxiv.org/abs/2610.32668v1
+Physics Informed Neural Networks for Solving the Drift-Diffusion Equations,Luke Ragan; Matteo G. C. Alasio; Enrico Bellotti; Luca Dal Negro,2026-10-23,http://arxiv.org/abs/2610.33133v1
+Physics-informed neural network (PINN) approximations of capillary menisci in polygonal channels,Zijian Liu; Julian Olszewski; Jie Xu,2026-10-22,http://arxiv.org/abs/2610.31963v1
+Cautious Conflict-Free Inverse Gradient Methods,Damian Hattler; Qiang Liu; Nils Thuerey,2026-10-22,http://arxiv.org/abs/2610.31855v1
+Physics-Informed Neural Networks vs U-Net: Application to thermal dust emission recovery in the microwave,Nicolas Morant Juan; José M. Casas; Laura Bonavera,2026-10-22,http://arxiv.org/abs/2610.31813v1
+Improved three component IVIM fitting using physics-informed neural network with multimodal spatial prior,Nhat Hoang; Abrar Faiyaz; Emmanuel A. Mensah; Md Nasir Uddin; Jianhui Zhong; Giovanni Schifitto,2026-10-20,http://arxiv.org/abs/2610.28873v1
+PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures,Arthur Bizzi; Márcio Marques; Kleyton Da Costa; Vitor Balestro; Tiago Novello; João M. Pereira; Daniel Yukimura,2026-10-20,http://arxiv.org/abs/2610.28591v1
+Manifold-Informed Neural Networks for Low-Label ECG Electrolyte Inference,Juntang Wang; Hao Wu; Yihan Wang; Dongmian Zou; Shixin Xu,2026-10-20,http://arxiv.org/abs/2610.28322v1
+HypoNet Nankai PS: rapid hypocenter determination for the Nankai Trough using physics-informed neural networks with three-dimensional P- and S-wave velocity models,Ryoichiro Agata; Ayako Nakanishi; Dan Bassett; Satoru Baba; Yasuyuki Nakamura; Gou Fujie,2026-10-20,http://arxiv.org/abs/2610.27561v1
+Soliton Profiles in 1D: Enhanced Neural-Network Solvers and Constrained Deep Ritz Methods,Chandler Haight; Alex D Rodriguez; Svetlana Roudenko,2026-10-20,http://arxiv.org/abs/2610.27500v1
+"Low Residuals, Wrong Value: Learning the Viscosity Solution of Hamilton-Jacobi-Isaacs Equations with PINNs",Raul Jimenez; Pablo Tejerina-Pérez; Leonid Sarieddine; Pedro Tarancón-Álvarez; Marisol Traforetti; Pau Solé-Vilaró; Oleksii Ignatenko; Nazar Tkach; Pavlos Protopapas,2026-10-19,http://arxiv.org/abs/2610.27193v1
+Binary Black Hole Puncture Initial Data with Physics-Informed Neural Networks,Thiago Assumpção; Ignacio Brevis; Irene Pitsiladi; Martin Zinzen; Miguel Bezares,2026-10-19,http://arxiv.org/abs/2610.27094v1
+A mixed leading variable physics-informed neural network for nonsmooth dynamics simulation in contact systems,Xinyuan Li; Zilin Li; Hongtao Wei; Ronghan Wei,2026-10-19,http://arxiv.org/abs/2610.26495v1
+GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction,Yatin Kumar; Shivani Saini; Ramesh Kumar Vats,2026-10-19,http://arxiv.org/abs/2610.30179v2
+Reconstruction of Magnetic Fields with a Physics-Informed Neural Network,P. Adhikari; R. Bhattarai; J. Brewington; D. Buskirk; F. B. Hills; Md F. Hossain; R. McDonald; P. A. Palamure; A. Reid; S. Sharmin; A. Tewsley-Booth; B. Plaster,2026-10-16,http://arxiv.org/abs/2610.23691v1
+Neural Network Representation of Generalized Parton Distributions (NNGPD),Simonetta Liuti; Jitao Xu; Ho Jang; Zaki Panjsheeri; Gia-Wei Chern; Yaohang Li; Douglas Q. Adams; Michael Engelhardt; Gary R. Goldstein; Adil Khawaja; Huey-Wen Lin; Saraswati Pandey; Kemal Tezgin,2026-10-16,http://arxiv.org/abs/2610.23390v1
+PINN-LPCDD: Physics-Informed Neural Network with Learnable and Physically Consistent Domain Decomposition for Compressible Multi-Medium Flows,Weiheng Zeng; Hao Wang; Jiaxin Zhu; Kun Wang; Tiegang Liu; Chengliang Feng,2026-10-16,http://arxiv.org/abs/2610.22903v1
+Fourier-Feature-Embedded Complex-Valued Physics-Informed Convolutional Residual Networks for Sparse and Gappy Noisy Flow-Field Reconstruction,Biswanath Barman; Rajendra K. Ray,2026-10-15,http://arxiv.org/abs/2610.22743v1
+The importance of tensor handling and implementation of physics-informed DeepONets,Nahum Banks; Gustavo A. M. de Almeida; Sergio Maldonado,2026-10-15,http://arxiv.org/abs/2610.22157v1
+Sequential Learning-Based Physics-Informed Neural Network Modeling for Parameter Estimation on a Power Converter,Samuela Rokocakau; Panagiotis Kakosimos; Giulia Tresca; Pericle Zanchetta,2026-10-14,http://arxiv.org/abs/2610.20041v1
+Beyond Time Induction: Structured Conditional Neural Solvers for Parametric Stochastic-Volatility Pricing,Jose Miguel Lara Rangel; Mixtli Vazquez Mendoza,2026-10-13,http://arxiv.org/abs/2610.19254v1
+Conformalized Physics-Informed Weak Regression for Parameter Estimation in Epidemic Models,Allan Peter Engsig-Karup,2026-10-13,http://arxiv.org/abs/2610.19058v1
+Neural Dimensional Analysis: Foundations of Dimensionless and Scale-Consistent Computation,Bum Jun Kim; Makoto Kawano; Yusuke Iwasawa; Yutaka Matsuo,2026-10-13,http://arxiv.org/abs/2610.17969v1
+Physics-informed Neural Networks Based on the Fokker-Planck Model for Rarefied Gas Flows,Joonbeom Kim; Eunji Jun,2026-10-12,http://arxiv.org/abs/2610.22390v1
+AI-Assisted Tumor-Growth Law Discovery from Sparse Data: Refitting and LLM-Based Ranking,Yitian Lu; Weinan Wang,2026-10-12,http://arxiv.org/abs/2610.16891v1
+Energy-Guided Learning for Heat Equation with Noisy Source: Optimal Estimation and Generalization Bounds,Zixiang Zhou; Xiaohui Chen; Shanghua Teng,2026-10-10,http://arxiv.org/abs/2610.15111v1
+Physics-informed random neural architectures on compact boundaryless multiply connected manifolds for random-operator models in machine learning and uncertainty quantification,Christian Soize,2026-10-10,http://arxiv.org/abs/2610.14844v1
+PINNs for N=2* holography,Alex Buchel,2026-10-10,http://arxiv.org/abs/2610.14461v1
+AI Meets Turbulence Modeling: Complex Systems Perspective,Sharath S. Girimaji,2026-10-09,http://arxiv.org/abs/2610.14355v1
+Utilizing Neural Networks for Solving Functional Renormalization Group Flow Equations,J. Gurzó; G. Fejős,2026-10-09,http://arxiv.org/abs/2610.13754v1
+A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models,Ivan Moloshnikov; Dmitry Kunitsyn; Alexander Sboev; Maksim Skorokhodov; Roman Rybka; Yuanchao Liu,2026-10-09,http://arxiv.org/abs/2610.13663v1
+PDE-PFN: Prior-Data Fitted Neural PDE Solver,Jaehyeon Park; Mingu Kang; Dongseok Lee; Woojin Cho; Kookjin Lee; Anthony Gruber; Youngjoon Hong; Noseong Park,2026-10-09,http://arxiv.org/abs/2610.13334v1
+Parameter misspecification in physics-informed neural networks: A closed-form audit and its limits,David McShannon; Nicholas Dietrich,2026-10-09,http://arxiv.org/abs/2610.23948v1
+A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems,Martin Campos Pinto; Victor Fournet; Emmanuel Franck; Philipp Krah; Victor Michel-Dansac,2026-10-08,http://arxiv.org/abs/2610.12395v1
+Uncovering and Fixing Collider Bias in Bayesian PINNs,Michael Obermayr; Robert Peharz,2026-10-08,http://arxiv.org/abs/2610.11737v2
+Cova-PINN: Cross-Domain Conservation Physics-Informed Neural Network for Fluid-Solid Conjugate Heat Transfer in Complex Geometries,Weizheng Zhang; Xunjie Xie; Hao Pan; Lin Lu,2026-10-08,http://arxiv.org/abs/2610.11108v1
+Gen-PINNs: Generative Adversarial Physics Informed Neural Networks for solving partial differential equations,Muhammad M. Akmal; Kamy Sepehrnoori; Michael J. Pyrcz,2026-10-07,http://arxiv.org/abs/2610.10897v1
+A mesh-based neural energy method for the simulation of heterogeneous composites,Pius J. M. Wichmann; Stefan Hildebrand; Sandra Klinge,2026-10-07,http://arxiv.org/abs/2610.10862v1
+SAGE-PINN: A Singularity-free Axisymmetric Geometry-Encoded Physics-Informed Neural Network for Axisymmetric Multiphysics Flow in Cylindrical Coordinates,Raj Maurya; Joyprakash Akhuli; Doyel Pandey,2026-10-07,http://arxiv.org/abs/2610.10449v1
+Convergence of kernel and neural-network methods for Hamilton--Jacobi--Bellman equations on unbounded domains,Yumiharu Nakano,2026-10-07,http://arxiv.org/abs/2610.09299v1
+Domain-informed Adaptive Sampling for Generalizable PINNs in Metal Additive Manufacturing via Conditional Flow Matching,Hyeonsu Lee; Jihoon Jeong,2026-10-06,http://arxiv.org/abs/2610.09126v1
+Canonical residual physics-informed neural networks and algorithmic perturbation landscapes map cell-fate transitions in longitudinal H3K27M glioma,Abicumaran Uthamacumaran,2026-10-06,http://arxiv.org/abs/2610.33000v1
+Puncture Evolution with Physics-Informed Neural Networks,Estuti Shukla; Ashwin Suriyanarayanan; David Radice; Romit Maulik; Sebastiano Bernuzzi,2026-10-05,http://arxiv.org/abs/2610.06776v1
+A posteriori error bounds for the Uncertain Volatility Model,Lokman A Abbas-Turki; Chassagneux Jean-Fran{\c c}ois; Jean-Philippe Lemor; Gr{é}goire Loeper; Simon Sananes,2026-10-05,http://arxiv.org/abs/2610.06495v1
+Parameter Estimation in Machining Dynamics with Regenerative Delay and Nonsmooth Friction using Physics-Informed Neural Networks,Meiyazhagan Jaganathan; Vikram Pakrashi; Aasifa Rounak,2026-10-05,http://arxiv.org/abs/2610.06230v1
+Component-Level Evaluation of Adaptive PINN Training for CFD-Oriented Crystal Growth Simulation,Niruta Chapagain; Rohit Raj; Bertwin Kurisinkal Shine; Aditya A S,2026-10-04,http://arxiv.org/abs/2610.05127v1
+Hybrid Ray-Tracing and Physics-Embedded Neural Modeling for High-Fidelity Channel Reconstruction in Wireless Digital Twins,Huiwen Zhang; Chu Ma; Feng Ye,2026-10-04,http://arxiv.org/abs/2610.04852v1
+Label-free physics-informed strength reduction and a neural operator for the reliability of spatially variable slopes,Apisit Robjanghvad; Sompote Youwai,2026-10-04,http://arxiv.org/abs/2610.04828v1
+CEENs: Causality-enforced evolutional networks for solving time-dependent partial differential equations,Jeahan Jung; Heechang Kim; Hyomin Shin; Minseok Choi,2026-10-03,http://arxiv.org/abs/2610.04405v1
+"Checkable NTK Positivity and Finite-Width Gradient Descent for Scalar- and Vector-Valued PINNs with Strong-Form, Weak-Form, and Nonlocal Linear Constraints",Zifan Lyu,2026-10-03,http://arxiv.org/abs/2610.04357v1
+Temperature-Dependent Multiphysics Modeling of Additive Friction Stir Deposition Using Multi-Task Coupled Physics-Informed Neural Networks,Dhrubajyoti Gupta; Nikhil Gotawala; Raghav Gnanasambandam; Rohit Kannan; Jian Yu; Hang Z. Yu; Zhenyu James Kong,2026-10-02,http://arxiv.org/abs/2610.04082v3
+Error Estimates in Physics-Informed Neural Networks to Heat-Wave Fluid-Structure Interactive System,Pelin G. Geredeli; Mohammad Mahabubur Rahman; Deepanshu Verma,2026-10-02,http://arxiv.org/abs/2610.03575v2
+Operator-informed initialization for Fourier features physics-informed neural networks,Juan Molina; Paris Perdikaris; Mircea Petrache; Matías Courdurier; Francisco Sahli Costabal,2026-10-02,http://arxiv.org/abs/2610.03378v1
+S$^{2}$-PINN: Stochastic Separable Physics-Informed Neural Networks,Zhendong Li; Akwum Onwunta,2026-10-02,http://arxiv.org/abs/2610.03303v2
+Hyperparameter selection for equation learning with biologically-informed neural networks,William Lavery; Jodie A. Cochrane; John T. Nardini; Sara Hamis,2026-10-02,http://arxiv.org/abs/2610.02954v1
+SoftServe: A Scalable Quasi-Newton Method for Deep Learning,Joohwan Ko; Tetiana Parshakova; Diana Cai; Robert M. Gower,2026-10-01,http://arxiv.org/abs/2610.02182v1
+Kolmogorov-Arnold Networks for Free-Boundary Partial Differential Equations,Tan Phuong Dong Le,2026-10-01,http://arxiv.org/abs/2610.02084v1
+Fourier Symmetrization for Geometric Quantum Machine Learning,Letao Wang; Abdel Lisser; Sreejith Sreekumar; Zeno Toffano,2026-10-01,http://arxiv.org/abs/2610.01874v1
+PINNing the pion: conformal deep learning for $F_π(s)$ and the $(g-2)_μ$ hadronic contribution,Mayank Goel; Subhadip Mitra; Monalisa Patra,2026-09-30,http://arxiv.org/abs/2609.40008v1
+Quantum Algorithms for Computational Fluid Dynamics,Mario Guillaume Cecile; Nis-Luca van Hülst; Tomohiro Hashizume; Pia Siegl; Abhishek Setty; José Diogo da Costa Jesus; Paul Over; Sergio Bengoechea; Muhammad Umer; Spyros Tserkis; Eleftherios Mastorakis; Tristan Kraft; Francisco Cárdenas-López; Leonardo Scandurra; Thomas Rung; Felix Motzoi; Belda Yesil; Barbara Kraus; Martin Kiffner; Dimitris G. Angelakis; Eugene de Villiers; Dieter Jaksch,2026-09-30,http://arxiv.org/abs/2609.39962v1
+Several Accelerated and Stable Pseudo-Energy-Dissipative Lagrange Multiplier Methods based on Second-order Flow and Variable Splitting,Xiaoli Li; Jianghua Liu; Zhiping Mao; Jingrong Wei; Xuan Zhao,2026-09-30,http://arxiv.org/abs/2609.39695v1
+Mesh-Free Numerical Approximation of the Biharmonic Equation via Optimized Kolmogorov--Arnold Neural Networks,B. Veena S. N. Rao,2026-09-30,http://arxiv.org/abs/2609.39469v1
+Towards solving General Relativity with Physics-Informed Neural Networks,Juan A. Carretero; Jorge F. Urbán; Fernando Abalos; Joan Massó; Oscar A. Reula; Jose A. Pons; Carlos Palenzuela,2026-09-29,http://arxiv.org/abs/2609.38331v1
+PE-EK-PINN: Physics Embedding with Evolving Kernel for Scalable Physics-Informed Neural Networks,Huiwen Zhang; Feng Ye; Chu Ma,2026-09-29,http://arxiv.org/abs/2609.38023v1
+Identifiability Guarantees for Drivers and Dynamics of Delayed Physical Systems,Julien Boussard; Antoine Debouchage; Théo Saulus,2026-09-29,http://arxiv.org/abs/2609.37944v3
+Hybrid Joint-Selective Optimization: Reduced-Space Levenberg-Marquardt Refinement of Low-Dimensional Parameters of Interest,Muhammad Luthfi Shahab; Gabriella Alfa Indahsari; Imam Mukhlash; Hadi Susanto,2026-09-29,http://arxiv.org/abs/2609.37308v1
+Physics-Aware Machine Unlearning for Cyber-Physical Systems,Mohammad Zakaria Haider; Muhammad Nadeem; Mohammad Ashiqur Rahman,2026-09-29,http://arxiv.org/abs/2609.36633v1
+CI-PINN: Causal Integral Physics-Informed Neural Network for Solving Evolution Equations,Xiaodong Feng; Ziyu Sun; Tao Tang; Xiaoliang Wan; Tao Zhou,2026-09-29,http://arxiv.org/abs/2609.36615v1
+Generalized PINN-Based Inverse Estimation of Spatially Varying Heat Transfer Coefficients with Transfer Learning,Pradipan Maitra; Jariful Hassan; Arijit Hazra,2026-09-28,http://arxiv.org/abs/2610.14008v1
+Tensor-Train Compressed Separable PINNs: A Curvature-Aware Optimization Framework for Parametric PDEs in High Dimensions,Denis Korolev; Martin Eigel,2026-09-28,http://arxiv.org/abs/2609.36165v1
