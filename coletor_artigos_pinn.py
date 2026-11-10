@@ -19,7 +19,7 @@ import requests
 # =============================================================================
 TERMO_BUSCA = "physics-informed neural network"
 API_URL = "https://export.arxiv.org/api/query"
-TOTAL_DESEJADO = 100        # Limite superior de artigos a coletar
+TOTAL_DESEJADO = 2000       # Limite superior; volume suficiente para cobrir vários meses
 POR_PAGINA = 50             # Quantidade de artigos solicitada por requisição
 PAUSA_SEGUNDOS = 3          # Intervalo entre requisições recomendado pelo arXiv
 ARQUIVO_CSV = "artigos_pinn_arxiv.csv"
